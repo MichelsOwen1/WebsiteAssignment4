@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+}
+
+p {
+  font-family: "Arial";
+  font-weight: bold;
+  style ="border-width: 3px; border-style: solid; border-color: blue"
+}
+
+h1 {
+  font-family: fantasy;
+  font-style: italic;
+  text-shadow: 0px 5px #ff00ff, 1px 10px #9000ff, 2px 15px #0000ff
+}
+
+h2 {
+  color: darkblue;
+  border-style: inset;
+  border-width: thick;
+  border-color: blue;
+}
