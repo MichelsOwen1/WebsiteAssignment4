@@ -3,12 +3,14 @@ body{
 }
 
 p {
+  text-align: center;
   font-family: "Arial";
   font-weight: bold;
   style ="border-width: 3px; border-style: solid; border-color: blue"
 }
 
 h1 {
+  text-align: center;
   font-family: fantasy;
   font-style: italic;
 }
